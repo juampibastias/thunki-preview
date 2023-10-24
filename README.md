@@ -1,12 +1,7 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+# Thunkify - AI/ML-Driven Digital Solutions
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+![Thunkify](https://media.discordapp.net/attachments/1086349784366981190/1166454285891027037/WhatsApp_Image_2023-10-24_at_13.48.32_7a185e62.jpg?ex=654a8c35&is=65381735&hm=91870ac4655b63214d3b1dad1339de67506c0fdd67fa8a56040cbb02f4ca91c9&=&width=958&height=521)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+### [🌟 Kickstart your project](https://thunkify.dev/)
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
-
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+### [🚀 Tailored Software Solutions](https://thunkify.dev/)
