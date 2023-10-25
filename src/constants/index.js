@@ -62,15 +62,15 @@ export const feedback = [
     {
         id: 'feedback-1',
         content:
-            'Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.',
-        name: 'Herman Jensen',
+            'Harness the power of Node.js, Express, and NestJS to build fast, scalable, and efficient back-end solutions.',
+        name: 'Cameron Jensen',
         title: 'Founder & Leader',
         img: people01,
     },
     {
         id: 'feedback-2',
         content:
-            "Money makes your life easier. If you're lucky to have it, you're lucky.",
+            'Embrace the front-end finesse with React, Electron, and Angular, leading the charge in crafting engaging UI/UX designs.',
         name: 'Steve Mark',
         title: 'Founder & Leader',
         img: people02,
@@ -78,7 +78,7 @@ export const feedback = [
     {
         id: 'feedback-3',
         content:
-            'It is usually people in the money business, finance, and international trade that are really rich.',
+            'Experience a seamless shift from development to production, propelled by solid databases and automated workflows towards operational excellence.',
         name: 'Kenn Gallagher',
         title: 'Founder & Leader',
         img: people03,
@@ -174,11 +174,6 @@ export const socialMedia = [
         id: 'social-media-1',
         icon: instagram,
         link: 'https://www.instagram.com/',
-    },
-    {
-        id: 'social-media-2',
-        icon: facebook,
-        link: 'https://www.facebook.com/',
     },
     {
         id: 'social-media-3',
