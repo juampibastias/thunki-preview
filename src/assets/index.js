@@ -24,6 +24,9 @@ import people01 from './people01.png';
 import people02 from './people02.png';
 import people03 from './people03.png';
 import thunkifywhite from './thunkify-logo-white.svg';
+import indexImg from './indeximg.png';
+import middleImg from './middleimg.png';
+import lastImg from './lastimg.png';
 
 export {
     airbnb,
@@ -52,4 +55,7 @@ export {
     people02,
     people03,
     thunkifywhite,
+    indexImg,
+    middleImg,
+    lastImg,
 };
