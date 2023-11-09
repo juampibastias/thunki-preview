@@ -29,7 +29,7 @@ const Billing = () => (
                 code we craft.
             </p>
 
-            <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>
+            {/* <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>
                 <img
                     src={apple}
                     alt='google_play'
@@ -40,7 +40,7 @@ const Billing = () => (
                     alt='google_play'
                     className='w-[144.17px] h-[43.08px] object-contain cursor-pointer'
                 />
-            </div>
+            </div> */}
         </div>
     </section>
 );
