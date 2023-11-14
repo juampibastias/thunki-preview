@@ -24,8 +24,25 @@ import people01 from './people01.png';
 import people02 from './people02.png';
 import people03 from './people03.png';
 import thunkifywhite from './thunkify-logo-white.svg';
+import indexImg from './indeximg.png';
+import middleImg from './middleimg.png';
+import lastImg from './lastimg.png';
+import aws from './aws-negative.png';
+import azure from './azure-negative.png';
+import figma from './figma-negative.png';
+import gcp from './GCP-negative.png';
+import imgNext from './nextjs-negative.png';
+import imgNode from './nodejs-negative.png';
+import imgType from './typescript-negative.png';
 
 export {
+    aws,
+    azure,
+    figma,
+    gcp,
+    imgNext,
+    imgNode,
+    imgType,
     airbnb,
     bill,
     binance,
@@ -52,4 +69,7 @@ export {
     people02,
     people03,
     thunkifywhite,
+    indexImg,
+    middleImg,
+    lastImg,
 };
