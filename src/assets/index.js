@@ -27,8 +27,22 @@ import thunkifywhite from './thunkify-logo-white.svg';
 import indexImg from './indeximg.png';
 import middleImg from './middleimg.png';
 import lastImg from './lastimg.png';
+import aws from './aws-negative.png';
+import azure from './azure-negative.png';
+import figma from './figma-negative.png';
+import gcp from './GCP-negative.png';
+import imgNext from './nextjs-negative.png';
+import imgNode from './nodejs-negative.png';
+import imgType from './typescript-negative.png';
 
 export {
+    aws,
+    azure,
+    figma,
+    gcp,
+    imgNext,
+    imgNode,
+    imgType,
     airbnb,
     bill,
     binance,

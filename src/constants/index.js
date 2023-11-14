@@ -13,6 +13,13 @@ import {
     send,
     shield,
     star,
+    aws,
+    azure,
+    figma,
+    gcp,
+    imgNext,
+    imgNode,
+    imgType,
 } from '../assets';
 
 export const navLinks = [
@@ -190,18 +197,30 @@ export const socialMedia = [
 export const clients = [
     {
         id: 'client-1',
-        logo: airbnb,
+        logo: aws,
     },
     {
         id: 'client-2',
-        logo: binance,
+        logo: azure,
     },
     {
         id: 'client-3',
-        logo: coinbase,
+        logo: figma,
     },
     {
         id: 'client-4',
-        logo: dropbox,
+        logo: gcp,
+    },
+    {
+        id: 'client-5',
+        logo: imgNext,
+    },
+    {
+        id: 'client-6',
+        logo: imgNode,
+    },
+    {
+        id: 'client-7',
+        logo: imgType,
     },
 ];
