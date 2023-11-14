@@ -224,3 +224,5 @@ export const clients = [
         logo: imgType,
     },
 ];
+
+// comentario
